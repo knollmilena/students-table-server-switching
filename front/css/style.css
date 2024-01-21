@@ -1,0 +1,21 @@
+.container {
+  padding-top: 40px;
+  max-width: 1170px;
+}
+.btn {
+  margin-bottom: 8px;
+}
+thead th {
+  font-weight: 500;
+}
+th {
+  font-weight: 400;
+}
+.title-students {
+  width: auto;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+.row:first-child {
+  margin-bottom: 30px;
+}

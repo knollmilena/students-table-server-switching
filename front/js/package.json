@@ -1,0 +1,17 @@
+{
+  "name": "table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "javascript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-config-base": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.43.0"
+  }
+}
